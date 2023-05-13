@@ -1,2 +1,2 @@
 # beatles
-VEFÞ1VG sýnidæmi
+Þetta er upplýsingavefur um Bítlana
